@@ -1,0 +1,238 @@
+*{
+    margin: 0%;
+
+}
+body{
+    background-color: rgb(219, 219, 219); 
+  
+    width: 100%;
+    height: 100%;
+    margin: 0%; } 
+    h1{
+        font-family: 'Times New Roman', Times, serif;
+    }
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+    header{
+        background-color: rgba(177, 212, 244, 0.739);
+        width: 100%;
+        font-size: 40px;
+        text-align: center;
+    
+    }
+    nav{
+        background-color: rgb(121, 126, 145);
+        width: 100%;
+        font-size: 20px;
+        text-align: center;
+    }
+
+
+    .navegador__1{
+        color: white;
+        text-decoration: none;
+        font-family: 'Times New Roman', Times, serif; 
+        margin-right: 40px;
+    
+    }
+    
+
+    main{
+        background-color: rgba(177, 212, 244, 0.739);
+        width: 100%;
+        font-size: 40px;
+        text-align: center;
+    
+    }
+    .bolsas{
+   width: 100%;
+   height: 40%;
+
+  
+    }
+
+    
+.bolsas__foto1{
+width: 18.05%;
+height: 20%;
+
+}
+.bolsas__foto2{
+    width: 20%;
+    height: 20%;
+    }
+    .bolsas__foto3{
+        width: 21.2%;
+        height: 20%;
+        justify-content: center;
+        margin-right: 40px;
+        }
+.pedidos{
+    background-color:transparent;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    
+
+    }
+.pedidos__1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 75px;
+   
+}
+.pedidos__1:hover{
+    background-color: rgba(177, 212, 244, 0.739);
+}
+    
+
+.fin{
+    text-align: right;
+    background-color:black;
+    color: white;
+}
+
+.btnespecial{
+   font-family: 'Times New Roman', Times, serif;
+
+ 
+}
+
+
+
+.btnpedido{
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 20px 20px ;
+    margin: 30px ;
+    border-radius: 20px  ;
+
+
+    }
+    #redes{
+        background-color: transparent;
+        display: flex;
+        justify-content: center;
+
+    }
+.redes__ig{
+    width: 20%;
+  
+}
+
+.redes__fb{
+    width: 20%;
+
+}
+.redes__wts{
+    width: 20%;
+}
+
+#lateral{
+    background-color:rgba(177, 212, 244, 0.739);
+  color: white;
+  text-align: center;
+  
+}
+.lateral__2{
+    width: 50px;
+}
+
+   .productos{
+    padding: 28px;
+   }
+   
+
+.productos__1{
+    width:  18%;
+    height: 20%;
+
+}
+.productos__2{
+    width:  20%;
+    height: 20%;
+
+}
+.productos__3{
+    width:  21%;
+    height: 20%;
+
+}
+.productos__4{
+    width:  30%;
+    height: 20%;
+
+}
+.productos__5{
+    width:  19.7%;
+    height: 19%;
+
+}
+.productos__6{
+    width:  20%;
+    height: 21%;
+
+}
+.productos__6{
+    width:  20%;
+    height: 20%;
+
+}
+#compra{
+    background-color:rgb(90, 119, 223);
+    padding: 15%;
+    
+
+}
+.compra__cliente {
+background-color: aquamarine;
+display: inline;
+text-align: center;
+margin-left: 12% ;
+padding: 10px;
+
+}
+.compra__email {
+    background-color: aquamarine;
+    display: inline;
+    text-align: center;
+margin-left: 13% ;
+padding: 10px;
+    
+    }
+.compra__cantidad {
+        background-color: aquamarine;
+        display: inline;
+        text-align: center;
+        text-align: center;
+margin-left: 8% ;
+padding: 10px;
+        }
+.compra__medida{
+            background-color: aquamarine;
+            display: inline;
+            text-align: center;
+            text-align: center;
+margin-left: 10% ;
+padding: 10px;
+            }
+.compra__color {
+            background-color: aquamarine;
+            display: inline;
+            text-align: center;text-align: center;
+            margin-left: 13% ;
+          padding: 10px;
+                }
